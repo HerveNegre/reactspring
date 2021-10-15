@@ -14,9 +14,6 @@ export default function Navbar() {
             <Link to="/scroll" className="scroll">
                 SCROLL
             </Link>
-            <Link to="/disappear" className="disappear">
-                DISAPPEAR
-            </Link>
         </nav>
     )
 }
