@@ -1,0 +1,45 @@
+label {
+    display: block;
+    font-size: 22px;
+    color: #00f0dc;
+    text-align: center;
+    margin: 40px 0 20px;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    display: block;
+    font-size: 20px;
+    border-radius: 5px;
+    font-size: inherit;
+    border: none;
+    outline: none;
+}
+
+input:hover{
+    border: 2px solid #d59cf8;
+}
+
+ul {
+    width: 80%;
+    margin: 20px auto 0;
+    display: block;
+    font-size: 16px;
+    color: #f1f1f1;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+ul li {
+    background: linear-gradient(135deg, #9af3ed 0%, #d59cf8 100%);
+    color: #222;
+    margin: 10px 0;
+    padding: 15px 10px;
+    border-radius: 5px;
+}
+ul li:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}

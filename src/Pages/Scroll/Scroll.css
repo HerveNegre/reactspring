@@ -1,0 +1,23 @@
+.scroll-txt {
+    color: #070707;
+    font-size: 21px;
+    margin: 20px 0;
+}
+
+.animSection {
+    width: 100%;
+    background: linear-gradient(135deg, #f1c945 0%, #f3886b 100%);
+    padding: 20px;
+    border: 5px;
+    transition: all 0.3s ease-out;
+}
+.animSection h2 {
+    text-align: center;
+    color: #f1f1f1;
+    font-size: 35px;
+    margin: 0;
+    text-transform: uppercase;
+}
+.animSection label {
+    margin: 10px 0 20px;
+}

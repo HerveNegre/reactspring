@@ -1,0 +1,35 @@
+nav {
+    width: 100%;
+    background: #f1f1f1;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    padding: 15px;
+    margin: 0;
+    color: #222;
+    text-decoration: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.list:hover {
+    color: #e66f00;
+}
+
+.anim:hover {
+    color: #a865d1;
+}
+
+.forms:hover {
+    color: #0a52be;
+}
+
+.disappear:hover {
+    color: #479200;
+}
+.scroll:hover {
+    color: #1336d1;
+}
