@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactspring/static/css/main.496525cf.chunk.css",
-    "main.js": "/reactspring/static/js/main.ad74f3b1.chunk.js",
-    "main.js.map": "/reactspring/static/js/main.ad74f3b1.chunk.js.map",
+    "main.css": "/reactspring/static/css/main.d7bab8f8.chunk.css",
+    "main.js": "/reactspring/static/js/main.70499f67.chunk.js",
+    "main.js.map": "/reactspring/static/js/main.70499f67.chunk.js.map",
     "runtime-main.js": "/reactspring/static/js/runtime-main.82eec279.js",
     "runtime-main.js.map": "/reactspring/static/js/runtime-main.82eec279.js.map",
-    "static/js/2.9790e334.chunk.js": "/reactspring/static/js/2.9790e334.chunk.js",
-    "static/js/2.9790e334.chunk.js.map": "/reactspring/static/js/2.9790e334.chunk.js.map",
+    "static/js/2.e8bfc2da.chunk.js": "/reactspring/static/js/2.e8bfc2da.chunk.js",
+    "static/js/2.e8bfc2da.chunk.js.map": "/reactspring/static/js/2.e8bfc2da.chunk.js.map",
     "index.html": "/reactspring/index.html",
-    "static/css/main.496525cf.chunk.css.map": "/reactspring/static/css/main.496525cf.chunk.css.map",
-    "static/js/2.9790e334.chunk.js.LICENSE.txt": "/reactspring/static/js/2.9790e334.chunk.js.LICENSE.txt"
+    "static/css/main.d7bab8f8.chunk.css.map": "/reactspring/static/css/main.d7bab8f8.chunk.css.map",
+    "static/js/2.e8bfc2da.chunk.js.LICENSE.txt": "/reactspring/static/js/2.e8bfc2da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.82eec279.js",
-    "static/js/2.9790e334.chunk.js",
-    "static/css/main.496525cf.chunk.css",
-    "static/js/main.ad74f3b1.chunk.js"
+    "static/js/2.e8bfc2da.chunk.js",
+    "static/css/main.d7bab8f8.chunk.css",
+    "static/js/main.70499f67.chunk.js"
   ]
 }
